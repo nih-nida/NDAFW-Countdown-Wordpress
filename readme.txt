@@ -1,8 +1,9 @@
 === N4T NDAFW Countdown ===
-Tags: NIDA
+Tags: NIDA, countdown
+Requires at least: 3.0
 Tested up to: 4.5.3
 
-short desc
+National Drug and Alcohol Facts Week Wordpress Countdown Widget.
 
 == Description ==
-long test
+National Drug and Alcohol Facts Week Wordpress Countdown Widget.
